@@ -1,0 +1,27 @@
+{
+	"A": {
+		"menu": [["S1", "S1"], ["S2", "S2"], ["S3", "S3"], ["S4", "S4"], ["S5", "S5"], ["S6", "S6"], ["S7", "S7"]
+		, ["S8", "S8"]],
+		"default_esp_Motor": "S1"
+	},
+
+	"C": {
+		"menu": [["M1", "M1"], ["M2", "M2"], ["M3", "M3"], ["M4", "M4"], ["全部", "ALL"]],
+		"default_esp_Motor": "M1"
+	},
+
+	"E": {
+		"menu": [["正转", "CW"], ["反转", "CCW"]],
+		"default_esp_Motor": "正转"
+	},
+
+	"F": {
+		"menu": [["M1_M2", "M1_M2"], ["M3_M4", "M3_M4"]],
+		"default_esp_Motor": "M1_M2"
+	},
+
+	"H": {
+		"menu": [["角度", "stepperDegree42"], ["圈数", "stepperTurn42"]],
+		"default_esp_Motor": "角度"
+	}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

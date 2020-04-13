@@ -1,0 +1,12 @@
+{
+    "esp_Motor.esp_Motor1|block": "设置[A]引脚伺服舵机为[B]度",
+    "esp_Motor.esp_Motor2|block": "电机[C]以[D]速度[E]",
+    "esp_Motor.esp_Motor3|block": "电机[C]停止",
+    "esp_Motor.esp_Motor4|block": "设置步进电机[F][E][G][H]"
+
+    
+   
+     
+
+    
+}
